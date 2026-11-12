@@ -1,0 +1,3 @@
+- Soft-ICE like functionality through UEFI / Coreboot.
+- AI-assisted functionality.
+- Highly-modular and interoperable. 
